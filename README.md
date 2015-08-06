@@ -1,1 +1,3 @@
-# moving-to-sweden
+# Moving to Sweden
+
+Fellow Ninja, Nejc Palir created a wonderful document for people having just moved to Sweden from abroad, however I personally think that it needs to be updated quite frequently with more information over time. I also find (as a non-Swede) that scrolling through a long document for a specific bit of information is not efficient, so I think it would be better served as a webpage with a different page for each category. The one nice big benefit with this model is that anybody that wants to add, change or improve the content in any way at all, they can simply send a pull request through!
